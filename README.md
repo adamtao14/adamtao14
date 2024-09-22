@@ -1,4 +1,4 @@
-<p align="center">Welcome to my profile<br><br>I like cybersecurity related topics and aviation, here you can find some of the projects i work on from time to time!</p>
+<p align="center">Welcome to my profile<br><br>I like cs related topics and aviation, here you can find some of the projects i work on from time to time!</p>
 
 ###
 
