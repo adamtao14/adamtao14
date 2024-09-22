@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBxMTQ1NHpwNHQyY2c0cnl6c2N5OHo2czV0OHFocnhiOWU4bnYzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1j9NiLfvtLAVAeYygv/giphy.gif"  />
+ <iframe src="https://giphy.com/embed/1j9NiLfvtLAVAeYygv" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bye-sunglasses-lebron-james-1j9NiLfvtLAVAeYygv">via GIPHY</a></p>
 </div>
 
 ###
